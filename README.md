@@ -1,2 +1,2 @@
-# Node-api
-Criação de API com NodeJS e MongoDB.
+# node-api
+API creation with NodeJS and MongoDB.
